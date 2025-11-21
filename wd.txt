@@ -1,2 +1,1 @@
-admin:money
-free:free
+admin:moneyxd
